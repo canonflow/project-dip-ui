@@ -1,1 +1,13 @@
+numpy
+pandas
+matplotlib
+jupyter
 streamlit
+joblib
+opencv-python
+scikit-learn
+pickleshare
+ipython-autotime
+regex
+glob2
+pathlib
